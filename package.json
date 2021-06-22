@@ -84,7 +84,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
-    "@babel/preset-env": "^7.12.7",
+    "@babel/preset-env": "^7.14.7",
     "@types/autoprefixer": "^9.7.2",
     "@types/browserify": "^12.0.36",
     "@types/connect-livereload": "^0.5.31",
